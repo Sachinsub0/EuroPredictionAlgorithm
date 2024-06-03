@@ -1,0 +1,627 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+6/11/2021,Italy,Turkey,3,0,UEFA Euro,Rome,Italy,FALSE
+6/12/2021,Wales,Switzerland,1,1,UEFA Euro,Cardiff,Wales,FALSE
+6/12/2021,Denmark,Finland,0,1,UEFA Euro,Copenhagen,Denmark,FALSE
+6/13/2021,Austria,North Macedonia,3,1,UEFA Euro,Bucharest,Romania,TRUE
+6/13/2021,Netherlands,Ukraine,3,2,UEFA Euro,Amsterdam,Netherlands,FALSE
+6/13/2021,England,Croatia,1,0,UEFA Euro,London,England,FALSE
+6/14/2021,Scotland,Czech Republic,0,2,UEFA Euro,Glasgow,Scotland,FALSE
+6/14/2021,Spain,Sweden,0,0,UEFA Euro,Seville,Spain,FALSE
+6/15/2021,Hungary,Portugal,0,3,UEFA Euro,Budapest,Hungary,FALSE
+6/15/2021,Germany,France,0,1,UEFA Euro,Munich,Germany,FALSE
+6/16/2021,Turkey,Wales,0,2,UEFA Euro,Baku,Azerbaijan,TRUE
+6/16/2021,Italy,Switzerland,3,0,UEFA Euro,Rome,Italy,FALSE
+6/17/2021,Denmark,Belgium,1,2,UEFA Euro,Copenhagen,Denmark,FALSE
+6/17/2021,Ukraine,North Macedonia,2,1,UEFA Euro,Bucharest,Romania,TRUE
+6/17/2021,Netherlands,Austria,2,0,UEFA Euro,Amsterdam,Netherlands,FALSE
+6/18/2021,Croatia,Czech Republic,1,1,UEFA Euro,Glasgow,Scotland,TRUE
+6/18/2021,England,Scotland,0,0,UEFA Euro,London,England,FALSE
+6/19/2021,Spain,Poland,1,1,UEFA Euro,Seville,Spain,FALSE
+6/19/2021,Hungary,France,1,1,UEFA Euro,Budapest,Hungary,FALSE
+6/19/2021,Germany,Portugal,4,2,UEFA Euro,Munich,Germany,FALSE
+6/20/2021,Italy,Wales,1,0,UEFA Euro,Rome,Italy,FALSE
+6/20/2021,Switzerland,Turkey,3,1,UEFA Euro,Baku,Azerbaijan,TRUE
+6/21/2021,Denmark,Russia,4,1,UEFA Euro,Copenhagen,Denmark,FALSE
+6/21/2021,Netherlands,North Macedonia,3,0,UEFA Euro,Amsterdam,Netherlands,FALSE
+6/21/2021,Ukraine,Austria,0,1,UEFA Euro,Bucharest,Romania,TRUE
+6/22/2021,Scotland,Croatia,1,3,UEFA Euro,Glasgow,Scotland,FALSE
+6/22/2021,England,Czech Republic,1,0,UEFA Euro,London,England,FALSE
+6/23/2021,Spain,Slovakia,5,0,UEFA Euro,Seville,Spain,FALSE
+6/23/2021,Germany,Hungary,2,2,UEFA Euro,Munich,Germany,FALSE
+6/23/2021,Portugal,France,2,2,UEFA Euro,Budapest,Hungary,TRUE
+6/26/2021,Italy,Austria,2,1,UEFA Euro,London,England,TRUE
+6/26/2021,Wales,Denmark,0,4,UEFA Euro,Amsterdam,Netherlands,TRUE
+6/27/2021,Netherlands,Czech Republic,0,2,UEFA Euro,Budapest,Hungary,TRUE
+6/27/2021,Belgium,Portugal,1,0,UEFA Euro,Seville,Spain,TRUE
+6/28/2021,Croatia,Spain,3,5,UEFA Euro,Copenhagen,Denmark,TRUE
+6/28/2021,France,Switzerland,3,3,UEFA Euro,Bucharest,Romania,TRUE
+6/29/2021,England,Germany,2,0,UEFA Euro,London,England,FALSE
+6/29/2021,Sweden,Ukraine,1,2,UEFA Euro,Glasgow,Scotland,TRUE
+7/2/2021,Switzerland,Spain,1,1,UEFA Euro,Saint Petersburg,Russia,TRUE
+7/2/2021,Belgium,Italy,1,2,UEFA Euro,Munich,Germany,TRUE
+7/3/2021,Czech Republic,Denmark,1,2,UEFA Euro,Baku,Azerbaijan,TRUE
+7/3/2021,Ukraine,England,0,4,UEFA Euro,Rome,Italy,TRUE
+7/6/2021,Italy,Spain,1,1,UEFA Euro,London,England,TRUE
+7/7/2021,England,Denmark,2,1,UEFA Euro,London,England,FALSE
+7/11/2021,England,Italy,1,1,UEFA Euro,London,England,FALSE
+9/1/2021,Finland,Wales,0,0,Friendly,Helsinki,Finland,FALSE
+9/1/2021,Qatar,Serbia,0,4,Friendly,Debrecen,Hungary,TRUE
+9/1/2021,Switzerland,Greece,2,1,Friendly,Basel,Switzerland,FALSE
+9/1/2021,Portugal,Republic of Ireland,2,1,FIFA World Cup qualification,Faro-Loulé,Portugal,FALSE
+9/1/2021,Luxembourg,Azerbaijan,2,1,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+9/1/2021,Kazakhstan,Ukraine,2,2,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+9/1/2021,France,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Strasbourg,France,FALSE
+9/1/2021,Faroe Islands,Israel,0,4,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+9/1/2021,Denmark,Scotland,2,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+9/1/2021,Moldova,Austria,0,2,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+9/1/2021,Norway,Netherlands,1,1,FIFA World Cup qualification,Oslo,Norway,FALSE
+9/1/2021,Turkey,Montenegro,2,2,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+9/1/2021,Russia,Croatia,0,0,FIFA World Cup qualification,Moscow,Russia,FALSE
+9/2/2021,Georgia,Kosovo,0,1,FIFA World Cup qualification,Batumi,Georgia,FALSE
+9/2/2021,Sweden,Spain,2,1,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+9/2/2021,Italy,Bulgaria,1,1,FIFA World Cup qualification,Florence,Italy,FALSE
+9/2/2021,Estonia,Belgium,2,5,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+9/2/2021,Hungary,England,0,4,FIFA World Cup qualification,Budapest,Hungary,FALSE
+9/2/2021,Iceland,Romania,0,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+9/2/2021,Liechtenstein,Germany,0,2,FIFA World Cup qualification,St. Gallen,Switzerland,TRUE
+9/4/2021,Bosnia and Herzegovina,Kuwait,1,0,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+9/4/2021,Qatar,Portugal,1,3,Friendly,Debrecen,Hungary,TRUE
+9/4/2021,Serbia,Luxembourg,4,1,FIFA World Cup qualification,Belgrade,Serbia,FALSE
+9/4/2021,Finland,Kazakhstan,1,0,FIFA World Cup qualification,Helsinki,Finland,FALSE
+9/4/2021,Ukraine,France,1,1,FIFA World Cup qualification,Kyiv,Ukraine,FALSE
+9/4/2021,Faroe Islands,Denmark,0,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+9/4/2021,Scotland,Moldova,1,0,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+9/4/2021,Israel,Austria,5,2,FIFA World Cup qualification,Haifa,Israel,FALSE
+9/4/2021,Gibraltar,Turkey,0,3,FIFA World Cup qualification,Gibraltar,Gibraltar,FALSE
+9/4/2021,Netherlands,Montenegro,4,0,FIFA World Cup qualification,Eindhoven,Netherlands,FALSE
+9/4/2021,Slovakia,Croatia,0,1,FIFA World Cup qualification,Bratislava,Slovakia,FALSE
+9/5/2021,Estonia,Northern Ireland,0,1,Friendly,Tallinn,Estonia,FALSE
+9/5/2021,Kosovo,Greece,1,1,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+9/5/2021,Spain,Georgia,4,0,FIFA World Cup qualification,Badajoz,Spain,FALSE
+9/5/2021,Switzerland,Italy,0,0,FIFA World Cup qualification,Basel,Switzerland,FALSE
+9/5/2021,Belarus,Wales,2,3,FIFA World Cup qualification,Kazan,Russia,TRUE
+9/5/2021,England,Andorra,4,0,FIFA World Cup qualification,London,England,FALSE
+9/5/2021,Albania,Hungary,1,0,FIFA World Cup qualification,Elbasan,Albania,FALSE
+9/5/2021,Iceland,North Macedonia,2,2,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+9/5/2021,Germany,Armenia,6,0,FIFA World Cup qualification,Stuttgart,Germany,FALSE
+9/5/2021,Romania,Liechtenstein,2,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+9/7/2021,Luxembourg,Qatar,1,1,Friendly,Luxembourg,Luxembourg,FALSE
+9/7/2021,Republic of Ireland,Serbia,1,1,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+9/7/2021,Azerbaijan,Portugal,0,3,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+9/7/2021,Bosnia and Herzegovina,Kazakhstan,2,2,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+9/7/2021,France,Finland,2,0,FIFA World Cup qualification,Lyon,France,FALSE
+9/7/2021,Austria,Scotland,0,1,FIFA World Cup qualification,Vienna,Austria,FALSE
+9/7/2021,Denmark,Israel,5,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+9/7/2021,Netherlands,Turkey,6,1,FIFA World Cup qualification,Amsterdam,Netherlands,FALSE
+9/7/2021,Croatia,Slovenia,3,0,FIFA World Cup qualification,Split,Croatia,FALSE
+9/8/2021,Bulgaria,Georgia,4,1,Friendly,Sofia,Bulgaria,FALSE
+9/8/2021,Czech Republic,Ukraine,1,1,Friendly,Plzeň,Czech Republic,FALSE
+9/8/2021,Kosovo,Spain,0,2,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+9/8/2021,Greece,Sweden,2,1,FIFA World Cup qualification,Athens,Greece,FALSE
+9/8/2021,Northern Ireland,Switzerland,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+9/8/2021,Italy,Lithuania,5,0,FIFA World Cup qualification,Reggio Emilia,Italy,FALSE
+9/8/2021,Wales,Estonia,0,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+9/8/2021,Hungary,Andorra,2,1,FIFA World Cup qualification,Budapest,Hungary,FALSE
+9/8/2021,Poland,England,1,1,FIFA World Cup qualification,Warsaw,Poland,FALSE
+9/8/2021,Iceland,Germany,0,4,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+9/8/2021,North Macedonia,Romania,0,0,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+10/6/2021,Italy,Spain,1,2,UEFA Nations League,Milan,Italy,FALSE
+10/7/2021,Belgium,France,2,3,UEFA Nations League,Turin,Italy,TRUE
+10/8/2021,Czech Republic,Wales,2,2,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+10/8/2021,Estonia,Belarus,2,0,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+10/8/2021,Latvia,Netherlands,0,1,FIFA World Cup qualification,Riga,Latvia,FALSE
+10/8/2021,Turkey,Norway,1,1,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+10/8/2021,Cyprus,Croatia,0,3,FIFA World Cup qualification,Larnaca,Cyprus,FALSE
+10/8/2021,Iceland,Armenia,1,1,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+10/8/2021,Germany,Romania,2,1,FIFA World Cup qualification,Hamburg,Germany,FALSE
+10/9/2021,Luxembourg,Serbia,0,1,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+10/9/2021,Georgia,Greece,0,2,FIFA World Cup qualification,Batumi,Georgia,FALSE
+10/9/2021,Switzerland,Northern Ireland,2,0,FIFA World Cup qualification,Geneva,Switzerland,FALSE
+10/9/2021,Finland,Ukraine,1,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+10/9/2021,Kazakhstan,Bosnia and Herzegovina,0,2,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+10/9/2021,Scotland,Israel,3,2,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+10/9/2021,Faroe Islands,Austria,0,2,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+10/9/2021,Moldova,Denmark,0,4,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+10/9/2021,Andorra,England,0,5,FIFA World Cup qualification,Andorra la Vella,Andorra,FALSE
+10/9/2021,Hungary,Albania,0,1,FIFA World Cup qualification,Budapest,Hungary,FALSE
+10/9/2021,Portugal,Qatar,3,0,Friendly,Faro-Loulé,Portugal,FALSE
+10/10/2021,Italy,Belgium,2,1,UEFA Nations League,Turin,Italy,FALSE
+10/10/2021,Spain,France,1,2,UEFA Nations League,Milan,Italy,TRUE
+10/11/2021,Estonia,Wales,0,1,FIFA World Cup qualification,Tallinn,Estonia,FALSE
+10/11/2021,Netherlands,Gibraltar,6,0,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
+10/11/2021,Latvia,Turkey,1,2,FIFA World Cup qualification,Riga,Latvia,FALSE
+10/11/2021,Croatia,Slovakia,2,2,FIFA World Cup qualification,Osijek,Croatia,FALSE
+10/11/2021,Iceland,Liechtenstein,4,0,FIFA World Cup qualification,Reykjavík,Iceland,FALSE
+10/11/2021,North Macedonia,Germany,0,4,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+10/11/2021,Romania,Armenia,1,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+10/12/2021,Portugal,Luxembourg,5,0,FIFA World Cup qualification,Faro-Loulé,Portugal,FALSE
+10/12/2021,Serbia,Azerbaijan,3,1,FIFA World Cup qualification,Belgrade,Serbia,FALSE
+10/12/2021,Kosovo,Georgia,1,2,FIFA World Cup qualification,Pristina,Kosovo,FALSE
+10/12/2021,Sweden,Greece,2,0,FIFA World Cup qualification,Stockholm,Sweden,FALSE
+10/12/2021,Lithuania,Switzerland,0,4,FIFA World Cup qualification,Vilnius,Lithuania,FALSE
+10/12/2021,Kazakhstan,Finland,0,2,FIFA World Cup qualification,Nur-Sultan,Kazakhstan,FALSE
+10/12/2021,Ukraine,Bosnia and Herzegovina,1,1,FIFA World Cup qualification,Lviv,Ukraine,FALSE
+10/12/2021,Faroe Islands,Scotland,0,1,FIFA World Cup qualification,Tórshavn,Faroe Islands,FALSE
+10/12/2021,Denmark,Austria,1,0,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+10/12/2021,Israel,Moldova,2,1,FIFA World Cup qualification,Beer Sheva,Israel,FALSE
+10/12/2021,England,Hungary,1,1,FIFA World Cup qualification,London,England,FALSE
+11/11/2021,Serbia,Qatar,4,0,Friendly,Belgrade,Serbia,FALSE
+11/11/2021,Ukraine,Bulgaria,1,1,Friendly,Odessa,Ukraine,FALSE
+11/11/2021,Republic of Ireland,Portugal,0,0,FIFA World Cup qualification,Dublin,Republic of Ireland,FALSE
+11/11/2021,Azerbaijan,Luxembourg,1,3,FIFA World Cup qualification,Baku,Azerbaijan,FALSE
+11/11/2021,Georgia,Sweden,2,0,FIFA World Cup qualification,Batumi,Georgia,FALSE
+11/11/2021,Greece,Spain,0,1,FIFA World Cup qualification,Athens,Greece,FALSE
+11/11/2021,Malta,Croatia,1,7,FIFA World Cup qualification,Ta' Qali,Malta,FALSE
+11/11/2021,Germany,Liechtenstein,9,0,FIFA World Cup qualification,Wolfsburg,Germany,FALSE
+11/11/2021,Romania,Iceland,0,0,FIFA World Cup qualification,Bucharest,Romania,FALSE
+11/12/2021,Italy,Switzerland,1,1,FIFA World Cup qualification,Rome,Italy,FALSE
+11/12/2021,Moldova,Scotland,0,2,FIFA World Cup qualification,Chișinău,Moldova,FALSE
+11/12/2021,Denmark,Faroe Islands,3,1,FIFA World Cup qualification,Copenhagen,Denmark,FALSE
+11/12/2021,Austria,Israel,4,2,FIFA World Cup qualification,Klagenfurt,Austria,FALSE
+11/12/2021,England,Albania,5,0,FIFA World Cup qualification,London,England,FALSE
+11/12/2021,Hungary,San Marino,4,0,FIFA World Cup qualification,Budapest,Hungary,FALSE
+11/13/2021,Bosnia and Herzegovina,Finland,1,3,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+11/13/2021,France,Kazakhstan,8,0,FIFA World Cup qualification,Paris,France,FALSE
+11/13/2021,Wales,Belarus,5,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+11/13/2021,Belgium,Estonia,3,1,FIFA World Cup qualification,Brussels,Belgium,FALSE
+11/13/2021,Turkey,Gibraltar,6,0,FIFA World Cup qualification,Istanbul,Turkey,FALSE
+11/13/2021,Montenegro,Netherlands,2,2,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+11/14/2021,Portugal,Serbia,1,2,FIFA World Cup qualification,Lisbon,Portugal,FALSE
+11/14/2021,Luxembourg,Republic of Ireland,0,3,FIFA World Cup qualification,Luxembourg,Luxembourg,FALSE
+11/14/2021,Spain,Sweden,1,0,FIFA World Cup qualification,Seville,Spain,FALSE
+11/14/2021,Greece,Kosovo,1,1,FIFA World Cup qualification,Athens,Greece,FALSE
+11/14/2021,Croatia,Russia,1,0,FIFA World Cup qualification,Split,Croatia,FALSE
+11/14/2021,Liechtenstein,Romania,0,2,FIFA World Cup qualification,Vaduz,Liechtenstein,FALSE
+11/14/2021,North Macedonia,Iceland,3,1,FIFA World Cup qualification,Skopje,North Macedonia,FALSE
+11/14/2021,Armenia,Germany,1,4,FIFA World Cup qualification,Yerevan,Armenia,FALSE
+11/15/2021,Georgia,Uzbekistan,1,0,Friendly,Gori,Georgia,FALSE
+11/15/2021,Northern Ireland,Italy,0,0,FIFA World Cup qualification,Belfast,Northern Ireland,FALSE
+11/15/2021,Switzerland,Bulgaria,4,0,FIFA World Cup qualification,Lucerne,Switzerland,FALSE
+11/15/2021,Scotland,Denmark,2,0,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+11/15/2021,Austria,Moldova,4,1,FIFA World Cup qualification,Klagenfurt,Austria,FALSE
+11/15/2021,Israel,Faroe Islands,3,2,FIFA World Cup qualification,Netanya,Israel,FALSE
+11/15/2021,Poland,Hungary,1,2,FIFA World Cup qualification,Warsaw,Poland,FALSE
+11/15/2021,San Marino,England,0,10,FIFA World Cup qualification,Serravalle,San Marino,FALSE
+11/16/2021,Kazakhstan,Tajikistan,1,0,Friendly,Nur-Sultan,Kazakhstan,FALSE
+11/16/2021,Bosnia and Herzegovina,Ukraine,0,2,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,FALSE
+11/16/2021,Finland,France,0,2,FIFA World Cup qualification,Helsinki,Finland,FALSE
+11/16/2021,Wales,Belgium,1,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+11/16/2021,Czech Republic,Estonia,2,0,FIFA World Cup qualification,Prague,Czech Republic,FALSE
+11/16/2021,Montenegro,Turkey,1,2,FIFA World Cup qualification,Podgorica,Montenegro,FALSE
+11/16/2021,Netherlands,Norway,2,0,FIFA World Cup qualification,Rotterdam,Netherlands,FALSE
+12/18/2021,United States,Bosnia and Herzegovina,1,0,Friendly,Los Angeles,United States,FALSE
+1/12/2022,Iceland,Uganda,1,1,Friendly,Belek,Turkey,TRUE
+1/15/2022,South Korea,Iceland,5,1,Friendly,Antalya,Turkey,TRUE
+3/24/2022,Italy,North Macedonia,0,1,FIFA World Cup qualification,Palermo,Italy,FALSE
+3/24/2022,Portugal,Turkey,3,1,FIFA World Cup qualification,Porto,Portugal,FALSE
+3/24/2022,Wales,Austria,2,1,FIFA World Cup qualification,Cardiff,Wales,FALSE
+3/24/2022,Hungary,Serbia,0,1,Friendly,Budapest,Hungary,FALSE
+3/24/2022,Scotland,Poland,1,1,Friendly,Glasgow,Scotland,FALSE
+3/24/2022,Estonia,Cyprus,0,0,UEFA Nations League,Tallinn,Estonia,FALSE
+3/24/2022,Moldova,Kazakhstan,1,2,UEFA Nations League,Chișinău,Moldova,FALSE
+3/25/2022,Bosnia and Herzegovina,Georgia,0,1,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+3/25/2022,France,Ivory Coast,2,1,Friendly,Marseille,France,FALSE
+3/25/2022,Luxembourg,Northern Ireland,1,3,Friendly,Luxembourg,Luxembourg,FALSE
+3/25/2022,Romania,Greece,0,1,Friendly,Bucharest,Romania,FALSE
+3/26/2022,Croatia,Slovenia,1,1,Friendly,Al Rayyan,Qatar,TRUE
+3/26/2022,England,Switzerland,2,1,Friendly,London,England,FALSE
+3/26/2022,Finland,Iceland,1,1,Friendly,Murcia,Spain,TRUE
+3/26/2022,Germany,Israel,2,0,Friendly,Sinsheim,Germany,FALSE
+3/26/2022,Netherlands,Denmark,4,2,Friendly,Amsterdam,Netherlands,FALSE
+3/26/2022,Spain,Albania,2,1,Friendly,Barcelona,Spain,FALSE
+3/28/2022,Montenegro,Greece,1,0,Friendly,Podgorica,Montenegro,FALSE
+3/29/2022,Portugal,North Macedonia,2,0,FIFA World Cup qualification,Porto,Portugal,FALSE
+3/29/2022,Albania,Georgia,0,0,Friendly,Tirana,Albania,FALSE
+3/29/2022,Austria,Scotland,2,2,Friendly,Vienna,Austria,FALSE
+3/29/2022,Bosnia and Herzegovina,Luxembourg,1,0,Friendly,Zenica,Bosnia and Herzegovina,FALSE
+3/29/2022,Croatia,Bulgaria,2,1,Friendly,Al Rayyan,Qatar,TRUE
+3/29/2022,Denmark,Serbia,3,0,Friendly,Copenhagen,Denmark,FALSE
+3/29/2022,England,Ivory Coast,3,0,Friendly,London,England,FALSE
+3/29/2022,France,South Africa,5,0,Friendly,Villeneuve D'Ascq,Algeria,TRUE
+3/29/2022,Israel,Romania,2,2,Friendly,Netanya,Israel,FALSE
+3/29/2022,Netherlands,Germany,1,1,Friendly,Amsterdam,Netherlands,FALSE
+3/29/2022,Northern Ireland,Hungary,0,1,Friendly,Belfast,Northern Ireland,FALSE
+3/29/2022,Spain,Iceland,5,0,Friendly,La Coruña,Spain,FALSE
+3/29/2022,Switzerland,Kosovo,1,1,Friendly,Zürich,Switzerland,FALSE
+3/29/2022,Turkey,Italy,2,3,Friendly,Konya,Turkey,FALSE
+3/29/2022,Wales,Czech Republic,1,1,Friendly,Cardiff,Wales,FALSE
+3/29/2022,Cyprus,Estonia,2,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+3/29/2022,Kazakhstan,Moldova,0,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+6/1/2022,Italy,Argentina,0,3,CONMEBOL–UEFA Cup of Champions,Paris,France,TRUE
+6/1/2022,Scotland,Ukraine,1,3,FIFA World Cup qualification,Glasgow,Scotland,FALSE
+6/1/2022,Poland,Wales,2,1,UEFA Nations League,Wrocław,Poland,FALSE
+6/2/2022,Czech Republic,Switzerland,2,1,UEFA Nations League,Prague,Czech Republic,FALSE
+6/2/2022,Spain,Portugal,1,1,UEFA Nations League,Sevilla,Spain,FALSE
+6/2/2022,Israel,Iceland,2,2,UEFA Nations League,Haifa,Israel,FALSE
+6/2/2022,Serbia,Norway,0,1,UEFA Nations League,Belgrade,Serbia,FALSE
+6/2/2022,Northern Ireland,Greece,0,1,UEFA Nations League,Belfast,Northern Ireland,FALSE
+6/2/2022,Georgia,Gibraltar,4,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+6/2/2022,Estonia,San Marino,2,0,UEFA Nations League,Tallinn,Estonia,FALSE
+6/3/2022,Croatia,Austria,0,3,UEFA Nations League,Osijek,Croatia,FALSE
+6/3/2022,France,Denmark,1,2,UEFA Nations League,Paris,France,FALSE
+6/3/2022,Belgium,Netherlands,1,4,UEFA Nations League,Brussels,Belgium,FALSE
+6/3/2022,Kazakhstan,Azerbaijan,2,0,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+6/4/2022,Hungary,England,1,0,UEFA Nations League,Budapest,Hungary,FALSE
+6/4/2022,Italy,Germany,1,1,UEFA Nations League,Bologna,Italy,FALSE
+6/4/2022,Finland,Bosnia and Herzegovina,1,1,UEFA Nations League,Helsinki,Finland,FALSE
+6/4/2022,Montenegro,Romania,2,0,UEFA Nations League,Podgorica,Montenegro,FALSE
+6/4/2022,Lithuania,Luxembourg,0,2,UEFA Nations League,Vilnius,Lithuania,FALSE
+6/4/2022,Turkey,Faroe Islands,4,0,UEFA Nations League,Istanbul,Turkey,FALSE
+6/5/2022,Wales,Ukraine,1,0,FIFA World Cup qualification,Cardiff,Wales,FALSE
+6/5/2022,Portugal,Switzerland,4,0,UEFA Nations League,Lisbon,Portugal,FALSE
+6/5/2022,Czech Republic,Spain,2,2,UEFA Nations League,Prague,Czech Republic,FALSE
+6/5/2022,Serbia,Slovenia,4,1,UEFA Nations League,Belgrade,Serbia,FALSE
+6/5/2022,Kosovo,Greece,0,1,UEFA Nations League,Pristina,Kosovo,FALSE
+6/5/2022,Bulgaria,Georgia,2,5,UEFA Nations League,Razgrad,Bulgaria,FALSE
+6/5/2022,Argentina,Estonia,5,0,Friendly,Pamplona,Spain,TRUE
+6/6/2022,Austria,Denmark,1,2,UEFA Nations League,Vienna,Austria,FALSE
+6/6/2022,Croatia,France,1,1,UEFA Nations League,Split,Croatia,FALSE
+6/6/2022,Iceland,Albania,1,1,UEFA Nations League,Reykjavík,Iceland,FALSE
+6/6/2022,Slovakia,Kazakhstan,0,1,UEFA Nations League,Trnava,Slovakia,FALSE
+6/7/2022,Germany,England,1,1,UEFA Nations League,Munich,Germany,FALSE
+6/7/2022,Italy,Hungary,2,1,UEFA Nations League,Cesena,Italy,FALSE
+6/7/2022,Bosnia and Herzegovina,Romania,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+6/7/2022,Faroe Islands,Luxembourg,0,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+6/7/2022,Lithuania,Turkey,0,6,UEFA Nations League,Vilnius,Lithuania,FALSE
+6/8/2022,Wales,Netherlands,1,2,UEFA Nations League,Cardiff,Wales,FALSE
+6/8/2022,Republic of Ireland,Ukraine,0,1,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+6/8/2022,Scotland,Armenia,2,0,UEFA Nations League,Glasgow,Scotland,FALSE
+6/9/2022,Portugal,Czech Republic,2,0,UEFA Nations League,Lisbon,Portugal,FALSE
+6/9/2022,Switzerland,Spain,0,1,UEFA Nations League,Geneva,Switzerland,FALSE
+6/9/2022,Sweden,Serbia,0,1,UEFA Nations League,Stockholm,Sweden,FALSE
+6/9/2022,Greece,Cyprus,3,0,UEFA Nations League,Vólos,Greece,FALSE
+6/9/2022,North Macedonia,Georgia,0,3,UEFA Nations League,Skopje,North Macedonia,FALSE
+6/9/2022,Malta,Estonia,1,2,UEFA Nations League,Ta' Qali,Malta,FALSE
+6/9/2022,San Marino,Iceland,0,1,Friendly,Serravalle,San Marino,FALSE
+6/10/2022,Austria,France,1,1,UEFA Nations League,Vienna,Austria,FALSE
+6/10/2022,Denmark,Croatia,0,1,UEFA Nations League,Copenhagen,Denmark,FALSE
+6/10/2022,Albania,Israel,1,2,UEFA Nations League,Tirana,Albania,FALSE
+6/10/2022,Belarus,Kazakhstan,1,1,UEFA Nations League,Novi Sad,Serbia,TRUE
+6/11/2022,England,Italy,0,0,UEFA Nations League,Wolverhampton,England,FALSE
+6/11/2022,Hungary,Germany,1,1,UEFA Nations League,Budapest,Hungary,FALSE
+6/11/2022,Wales,Belgium,1,1,UEFA Nations League,Cardiff,Wales,FALSE
+6/11/2022,Netherlands,Poland,2,2,UEFA Nations League,Rotterdam,Netherlands,FALSE
+6/11/2022,Ukraine,Armenia,3,0,UEFA Nations League,Łódź,Poland,TRUE
+6/11/2022,Republic of Ireland,Scotland,3,0,UEFA Nations League,Dublin,Republic of Ireland,FALSE
+6/11/2022,Montenegro,Bosnia and Herzegovina,1,1,UEFA Nations League,Podgorica,Montenegro,FALSE
+6/11/2022,Romania,Finland,1,0,UEFA Nations League,Bucharest,Romania,FALSE
+6/11/2022,Luxembourg,Turkey,0,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+6/12/2022,Spain,Czech Republic,2,0,UEFA Nations League,Málaga,Spain,FALSE
+6/12/2022,Switzerland,Portugal,1,0,UEFA Nations League,Geneva,Switzerland,FALSE
+6/12/2022,Slovenia,Serbia,2,2,UEFA Nations League,Ljubljana,Slovenia,FALSE
+6/12/2022,Greece,Kosovo,2,0,UEFA Nations League,Vólos,Greece,FALSE
+6/12/2022,Georgia,Bulgaria,0,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+6/13/2022,Denmark,Austria,2,0,UEFA Nations League,Copenhagen,Denmark,FALSE
+6/13/2022,France,Croatia,0,1,UEFA Nations League,Paris,France,FALSE
+6/13/2022,Iceland,Israel,2,2,UEFA Nations League,Reykjavík,Iceland,FALSE
+6/13/2022,Kazakhstan,Slovakia,2,1,UEFA Nations League,Nur-Sultan,Kazakhstan,FALSE
+6/13/2022,Albania,Estonia,0,0,Friendly,Tirana,Albania,FALSE
+6/14/2022,England,Hungary,0,4,UEFA Nations League,Wolverhampton,England,FALSE
+6/14/2022,Germany,Italy,5,2,UEFA Nations League,Mönchengladbach,Germany,FALSE
+6/14/2022,Netherlands,Wales,3,2,UEFA Nations League,Rotterdam,Netherlands,FALSE
+6/14/2022,Armenia,Scotland,1,4,UEFA Nations League,Yerevan,Armenia,FALSE
+6/14/2022,Ukraine,Republic of Ireland,1,1,UEFA Nations League,Łódź,Poland,TRUE
+6/14/2022,Bosnia and Herzegovina,Finland,3,2,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+6/14/2022,Romania,Montenegro,0,3,UEFA Nations League,Bucharest,Romania,FALSE
+6/14/2022,Luxembourg,Faroe Islands,2,2,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+6/14/2022,Turkey,Lithuania,2,0,UEFA Nations League,İzmir,Turkey,FALSE
+9/21/2022,Scotland,Ukraine,3,0,UEFA Nations League,Glasgow,Scotland,FALSE
+9/22/2022,Iceland,Venezuela,1,0,Friendly,Maria Enzersdorf,Austria,TRUE
+9/22/2022,Croatia,Denmark,2,1,UEFA Nations League,Zagreb,Croatia,FALSE
+9/22/2022,France,Austria,2,0,UEFA Nations League,Paris,France,FALSE
+9/22/2022,Belgium,Wales,2,1,UEFA Nations League,Brussels,Belgium,FALSE
+9/22/2022,Poland,Netherlands,0,2,UEFA Nations League,Warsaw,Poland,FALSE
+9/22/2022,Turkey,Luxembourg,3,3,UEFA Nations League,Istanbul,Turkey,FALSE
+9/22/2022,Kazakhstan,Belarus,2,1,UEFA Nations League,Astana,Kazakhstan,FALSE
+9/23/2022,Germany,Hungary,0,1,UEFA Nations League,Leipzig,Germany,FALSE
+9/23/2022,Italy,England,1,0,UEFA Nations League,Milan,Italy,FALSE
+9/23/2022,Bosnia and Herzegovina,Montenegro,1,0,UEFA Nations League,Zenica,Bosnia and Herzegovina,FALSE
+9/23/2022,Finland,Romania,1,1,UEFA Nations League,Helsinki,Finland,FALSE
+9/23/2022,Georgia,North Macedonia,2,0,UEFA Nations League,Tbilisi,Georgia,FALSE
+9/23/2022,Estonia,Malta,2,1,UEFA Nations League,Tallinn,Estonia,FALSE
+9/24/2022,Czech Republic,Portugal,0,4,UEFA Nations League,Prague,Czech Republic,FALSE
+9/24/2022,Spain,Switzerland,1,2,UEFA Nations League,Zaragoza,Spain,FALSE
+9/24/2022,Armenia,Ukraine,0,5,UEFA Nations League,Yerevan,Armenia,FALSE
+9/24/2022,Scotland,Republic of Ireland,2,1,UEFA Nations League,Glasgow,Scotland,FALSE
+9/24/2022,Israel,Albania,2,1,UEFA Nations League,Tel Aviv,Israel,FALSE
+9/24/2022,Serbia,Sweden,4,1,UEFA Nations League,Belgrade,Serbia,FALSE
+9/24/2022,Cyprus,Greece,1,0,UEFA Nations League,Larnaca,Cyprus,FALSE
+9/25/2022,Austria,Croatia,1,3,UEFA Nations League,Vienna,Austria,FALSE
+9/25/2022,Denmark,France,2,0,UEFA Nations League,Copenhagen,Denmark,FALSE
+9/25/2022,Wales,Poland,0,1,UEFA Nations League,Cardiff,Wales,FALSE
+9/25/2022,Netherlands,Belgium,1,0,UEFA Nations League,Amsterdam,Netherlands,FALSE
+9/25/2022,Faroe Islands,Turkey,2,1,UEFA Nations League,Tórshavn,Faroe Islands,FALSE
+9/25/2022,Luxembourg,Lithuania,1,0,UEFA Nations League,Luxembourg,Luxembourg,FALSE
+9/25/2022,Azerbaijan,Kazakhstan,3,0,UEFA Nations League,Baku,Azerbaijan,FALSE
+9/26/2022,England,Germany,3,3,UEFA Nations League,London,England,FALSE
+9/26/2022,Hungary,Italy,0,2,UEFA Nations League,Budapest,Hungary,FALSE
+9/26/2022,Romania,Bosnia and Herzegovina,4,1,UEFA Nations League,Bucharest,Romania,FALSE
+9/26/2022,Gibraltar,Georgia,1,2,UEFA Nations League,Gibraltar,Gibraltar,FALSE
+9/26/2022,San Marino,Estonia,0,4,UEFA Nations League,Serravalle,San Marino,FALSE
+9/27/2022,Malta,Israel,2,1,Friendly,Ta' Qali,Malta,FALSE
+9/27/2022,Portugal,Spain,0,1,UEFA Nations League,Braga,Portugal,FALSE
+9/27/2022,Switzerland,Czech Republic,2,1,UEFA Nations League,St. Gallen,Switzerland,FALSE
+9/27/2022,Ukraine,Scotland,0,0,UEFA Nations League,Kraków,Poland,TRUE
+9/27/2022,Albania,Iceland,1,1,UEFA Nations League,Tirana,Albania,FALSE
+9/27/2022,Norway,Serbia,0,2,UEFA Nations League,Oslo,Norway,FALSE
+9/27/2022,Greece,Northern Ireland,3,1,UEFA Nations League,Athens,Greece,FALSE
+11/6/2022,Saudi Arabia,Iceland,1,0,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+11/11/2022,South Korea,Iceland,1,0,Friendly,Hwaseong,South Korea,FALSE
+11/16/2022,Albania,Italy,1,3,Friendly,Tirana,Albania,FALSE
+11/16/2022,Andorra,Austria,0,1,Friendly,Malaga,Spain,TRUE
+11/16/2022,Oman,Germany,0,1,Friendly,Muscat,Oman,FALSE
+11/16/2022,Saudi Arabia,Croatia,0,1,Friendly,Riyadh,Saudi Arabia,FALSE
+11/16/2022,Turkey,Scotland,2,1,Friendly,Diyarbakir,Turkey,FALSE
+11/16/2022,Uzbekistan,Kazakhstan,2,0,Friendly,Tashkent,Uzbekistan,FALSE
+11/16/2022,Lithuania,Iceland,0,0,Baltic Cup,Kaunas,Lithuania,FALSE
+11/16/2022,Latvia,Estonia,1,1,Baltic Cup,Riga,Latvia,FALSE
+11/17/2022,Israel,Zambia,4,2,Friendly,Petah Tikva,Israel,FALSE
+11/17/2022,Jordan,Spain,1,3,Friendly,Amman,Jordan,FALSE
+11/17/2022,Luxembourg,Hungary,2,2,Friendly,Luxembourg,Luxembourg,FALSE
+11/17/2022,Malta,Greece,2,2,Friendly,Ta' Qali,Malta,FALSE
+11/17/2022,Morocco,Georgia,3,0,Friendly,Sharjah,United Arab Emirates,TRUE
+11/17/2022,Portugal,Nigeria,4,0,Friendly,Lisbon,Portugal,FALSE
+11/17/2022,Romania,Slovenia,1,2,Friendly,Cluj-Napoca,Romania,FALSE
+11/17/2022,Switzerland,Ghana,0,2,Friendly,Abu Dhabi,United Arab Emirates,TRUE
+11/18/2022,Bahrain,Serbia,1,5,Friendly,Arad,Bahrain,FALSE
+11/19/2022,Turkey,Czech Republic,2,1,Friendly,Gaziantep,Turkey,FALSE
+11/19/2022,United Arab Emirates,Kazakhstan,2,1,Friendly,Abu Dhabi,United Arab Emirates,FALSE
+11/19/2022,Estonia,Lithuania,2,0,Baltic Cup,Tallinn,Estonia,FALSE
+11/19/2022,Latvia,Iceland,1,1,Baltic Cup,Riga,Latvia,FALSE
+11/20/2022,Austria,Italy,2,0,Friendly,Vienna,Austria,FALSE
+11/20/2022,Hungary,Greece,2,1,Friendly,Budapest,Hungary,FALSE
+11/20/2022,Israel,Cyprus,2,3,Friendly,Petah Tikva,Israel,FALSE
+11/20/2022,Luxembourg,Bulgaria,0,0,Friendly,Luxembourg,Luxembourg,FALSE
+11/20/2022,Moldova,Romania,0,5,Friendly,Chișinău,Moldova,FALSE
+11/21/2022,Senegal,Netherlands,0,2,FIFA World Cup,Doha,Qatar,TRUE
+11/21/2022,England,Iran,6,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/21/2022,United States,Wales,1,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/22/2022,Denmark,Tunisia,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/22/2022,France,Australia,4,1,FIFA World Cup,Al Wakrah,Qatar,TRUE
+11/23/2022,Germany,Japan,1,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/23/2022,Spain,Costa Rica,7,0,FIFA World Cup,Doha,Qatar,TRUE
+11/23/2022,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,TRUE
+11/24/2022,Switzerland,Cameroon,1,0,FIFA World Cup,Al Wakrah,Qatar,TRUE
+11/24/2022,Brazil,Serbia,2,0,FIFA World Cup,Lusail,Qatar,TRUE
+11/24/2022,Portugal,Ghana,3,2,FIFA World Cup,Doha,Qatar,TRUE
+11/25/2022,Netherlands,Ecuador,1,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/25/2022,Wales,Iran,0,2,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/25/2022,England,United States,0,0,FIFA World Cup,Al Khor,Qatar,TRUE
+11/26/2022,France,Denmark,2,1,FIFA World Cup,Doha,Qatar,TRUE
+11/27/2022,Spain,Germany,1,1,FIFA World Cup,Al Khor,Qatar,TRUE
+11/27/2022,Croatia,Canada,4,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/28/2022,Cameroon,Serbia,3,3,FIFA World Cup,Al Wakrah,Qatar,TRUE
+11/28/2022,Brazil,Switzerland,1,0,FIFA World Cup,Doha,Qatar,TRUE
+11/28/2022,Portugal,Uruguay,2,0,FIFA World Cup,Lusail,Qatar,TRUE
+11/29/2022,Qatar,Netherlands,0,2,FIFA World Cup,Al Khor,Qatar,FALSE
+11/29/2022,Wales,England,0,3,FIFA World Cup,Al Rayyan,Qatar,TRUE
+11/30/2022,Australia,Denmark,1,0,FIFA World Cup,Al Wakrah,Qatar,TRUE
+11/30/2022,Tunisia,France,1,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/1/2022,Japan,Spain,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/1/2022,Costa Rica,Germany,2,4,FIFA World Cup,Al Khor,Qatar,TRUE
+12/1/2022,Croatia,Belgium,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/2/2022,Serbia,Switzerland,2,3,FIFA World Cup,Doha,Qatar,TRUE
+12/2/2022,South Korea,Portugal,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/3/2022,Netherlands,United States,3,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/4/2022,France,Poland,3,1,FIFA World Cup,Doha,Qatar,TRUE
+12/4/2022,England,Senegal,3,0,FIFA World Cup,Al Khor,Qatar,TRUE
+12/5/2022,Japan,Croatia,1,1,FIFA World Cup,Al Wakrah,Qatar,TRUE
+12/6/2022,Morocco,Spain,0,0,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/6/2022,Portugal,Switzerland,6,1,FIFA World Cup,Lusail,Qatar,TRUE
+12/9/2022,Croatia,Brazil,1,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/9/2022,Netherlands,Argentina,2,2,FIFA World Cup,Lusail,Qatar,TRUE
+12/10/2022,Morocco,Portugal,1,0,FIFA World Cup,Doha,Qatar,TRUE
+12/10/2022,England,France,1,2,FIFA World Cup,Al Khor,Qatar,TRUE
+12/13/2022,Argentina,Croatia,3,0,FIFA World Cup,Lusail,Qatar,TRUE
+12/14/2022,France,Morocco,2,0,FIFA World Cup,Al Khor,Qatar,TRUE
+12/17/2022,Croatia,Morocco,2,1,FIFA World Cup,Al Rayyan,Qatar,TRUE
+12/18/2022,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,TRUE
+1/8/2023,Iceland,Estonia,1,1,Friendly,Albufeira,Portugal,TRUE
+1/12/2023,Finland,Estonia,0,1,Friendly,Albufeira,Portugal,TRUE
+1/12/2023,Sweden,Iceland,2,1,Friendly,Faro-Loulé,Portugal,TRUE
+1/25/2023,United States,Serbia,1,2,Friendly,Los Angeles,United States,FALSE
+3/23/2023,Hungary,Estonia,1,0,Friendly,Budapest,Hungary,FALSE
+3/23/2023,Italy,England,1,2,UEFA Euro qualification,Napoli,Italy,FALSE
+3/23/2023,Denmark,Finland,3,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+3/23/2023,Kazakhstan,Slovenia,1,2,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+3/23/2023,Portugal,Liechtenstein,4,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+3/23/2023,Bosnia and Herzegovina,Iceland,3,0,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+3/23/2023,Slovakia,Luxembourg,0,0,UEFA Euro qualification,Trnava,Slovakia,FALSE
+3/24/2023,Gibraltar,Greece,0,3,UEFA Euro qualification,Faro-Loulé,Portugal,TRUE
+3/24/2023,France,Netherlands,4,0,UEFA Euro qualification,Paris,France,FALSE
+3/24/2023,Austria,Azerbaijan,4,1,UEFA Euro qualification,Pasching,Austria,FALSE
+3/24/2023,Serbia,Lithuania,2,0,UEFA Euro qualification,Belgrade,Serbia,FALSE
+3/25/2023,Georgia,Mongolia,6,1,Friendly,Batumi,Georgia,FALSE
+3/25/2023,Germany,Peru,2,0,Friendly,Mainz,Germany,FALSE
+3/25/2023,Scotland,Cyprus,3,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
+3/25/2023,Spain,Norway,3,0,UEFA Euro qualification,Malaga,Spain,FALSE
+3/25/2023,Croatia,Wales,1,1,UEFA Euro qualification,Split,Croatia,FALSE
+3/25/2023,Armenia,Turkey,1,2,UEFA Euro qualification,Yerevan,Armenia,FALSE
+3/25/2023,Belarus,Switzerland,0,5,UEFA Euro qualification,Novi Sad,Serbia,TRUE
+3/25/2023,Israel,Kosovo,1,1,UEFA Euro qualification,Tel Aviv,Israel,FALSE
+3/25/2023,Andorra,Romania,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+3/26/2023,England,Ukraine,2,0,UEFA Euro qualification,London,England,FALSE
+3/26/2023,Malta,Italy,0,2,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+3/26/2023,Kazakhstan,Denmark,3,2,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+3/26/2023,Liechtenstein,Iceland,0,7,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+3/26/2023,Luxembourg,Portugal,0,6,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+3/26/2023,Slovakia,Bosnia and Herzegovina,2,0,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+3/27/2023,Greece,Lithuania,0,0,Friendly,Athens,Greece,FALSE
+3/27/2023,Republic of Ireland,France,0,1,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+3/27/2023,Netherlands,Gibraltar,3,0,UEFA Euro qualification,Rotterdam,Netherlands,FALSE
+3/27/2023,Austria,Estonia,2,1,UEFA Euro qualification,Pasching,Austria,FALSE
+3/27/2023,Hungary,Bulgaria,3,0,UEFA Euro qualification,Budapest,Hungary,FALSE
+3/27/2023,Montenegro,Serbia,0,2,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+3/28/2023,Germany,Belgium,2,3,Friendly,Cologne,Germany,FALSE
+3/28/2023,Scotland,Spain,2,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
+3/28/2023,Georgia,Norway,1,1,UEFA Euro qualification,Batumi,Georgia,FALSE
+3/28/2023,Wales,Latvia,1,0,UEFA Euro qualification,Cardiff,Wales,FALSE
+3/28/2023,Turkey,Croatia,0,2,UEFA Euro qualification,Bursa,Turkey,FALSE
+3/28/2023,Switzerland,Israel,3,0,UEFA Euro qualification,Geneva,Switzerland,FALSE
+3/28/2023,Romania,Belarus,2,1,UEFA Euro qualification,Bucharest,Romania,FALSE
+6/9/2023,Luxembourg,Malta,0,1,Friendly,Luxembourg,Luxembourg,FALSE
+6/12/2023,Germany,Ukraine,3,3,Friendly,Bremen,Germany,FALSE
+6/14/2023,Netherlands,Croatia,2,4,UEFA Nations League,Rotterdam,Netherlands,FALSE
+6/15/2023,Spain,Italy,2,1,UEFA Nations League,Enschede,Netherlands,TRUE
+6/16/2023,Poland,Germany,1,0,Friendly,Warsaw,Poland,FALSE
+6/16/2023,Serbia,Jordan,3,2,Friendly,Vienna,Austria,TRUE
+6/16/2023,Gibraltar,France,0,3,UEFA Euro qualification,Faro-Loulé,Portugal,TRUE
+6/16/2023,Greece,Republic of Ireland,2,1,UEFA Euro qualification,Athens,Greece,FALSE
+6/16/2023,Malta,England,0,4,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+6/16/2023,North Macedonia,Ukraine,2,3,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+6/16/2023,Wales,Armenia,2,4,UEFA Euro qualification,Cardiff,Wales,FALSE
+6/16/2023,Latvia,Turkey,2,3,UEFA Euro qualification,Riga,Latvia,FALSE
+6/16/2023,Denmark,Northern Ireland,1,0,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+6/16/2023,San Marino,Kazakhstan,0,3,UEFA Euro qualification,Parma,Italy,TRUE
+6/16/2023,Andorra,Switzerland,1,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+6/16/2023,Belarus,Israel,1,2,UEFA Euro qualification,Budapest,Hungary,TRUE
+6/16/2023,Kosovo,Romania,0,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
+6/17/2023,Norway,Scotland,1,2,UEFA Euro qualification,Oslo,Norway,FALSE
+6/17/2023,Cyprus,Georgia,1,2,UEFA Euro qualification,Larnaca,Cyprus,FALSE
+6/17/2023,Azerbaijan,Estonia,1,1,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+6/17/2023,Belgium,Austria,1,1,UEFA Euro qualification,Brussels,Belgium,FALSE
+6/17/2023,Montenegro,Hungary,0,0,UEFA Euro qualification,Podgorica,Montenegro,FALSE
+6/17/2023,Luxembourg,Liechtenstein,2,0,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+6/17/2023,Iceland,Slovakia,1,2,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+6/17/2023,Portugal,Bosnia and Herzegovina,3,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+6/18/2023,Netherlands,Italy,2,3,UEFA Nations League,Enschede,Netherlands,FALSE
+6/18/2023,Croatia,Spain,0,0,UEFA Nations League,Rotterdam,Netherlands,TRUE
+6/19/2023,France,Greece,1,0,UEFA Euro qualification,Paris,France,FALSE
+6/19/2023,Ukraine,Malta,1,0,UEFA Euro qualification,Trnava,Slovakia,TRUE
+6/19/2023,England,North Macedonia,7,0,UEFA Euro qualification,Manchester,England,FALSE
+6/19/2023,Turkey,Wales,2,0,UEFA Euro qualification,Samsun,Turkey,FALSE
+6/19/2023,Northern Ireland,Kazakhstan,0,1,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+6/19/2023,Slovenia,Denmark,1,1,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+6/19/2023,Switzerland,Romania,2,2,UEFA Euro qualification,Lucerne,Switzerland,FALSE
+6/19/2023,Israel,Andorra,2,1,UEFA Euro qualification,Jerusalem,Israel,FALSE
+6/20/2023,Germany,Colombia,0,2,Friendly,Gelsenkirchen,Germany,FALSE
+6/20/2023,Scotland,Georgia,2,0,UEFA Euro qualification,Glasgow,Scotland,FALSE
+6/20/2023,Austria,Sweden,2,0,UEFA Euro qualification,Vienna,Austria,FALSE
+6/20/2023,Estonia,Belgium,0,3,UEFA Euro qualification,Tallinn,Estonia,FALSE
+6/20/2023,Hungary,Lithuania,2,0,UEFA Euro qualification,Budapest,Hungary,FALSE
+6/20/2023,Bulgaria,Serbia,1,1,UEFA Euro qualification,Razgrad,Bulgaria,FALSE
+6/20/2023,Iceland,Portugal,0,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+6/20/2023,Bosnia and Herzegovina,Luxembourg,0,2,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+9/7/2023,Austria,Moldova,1,1,Friendly,Pasching,Austria,FALSE
+9/7/2023,Wales,South Korea,0,0,Friendly,Cardiff,Wales,FALSE
+9/7/2023,France,Republic of Ireland,2,0,UEFA Euro qualification,Paris,France,FALSE
+9/7/2023,Netherlands,Greece,3,0,UEFA Euro qualification,Eindhoven,Netherlands,FALSE
+9/7/2023,Serbia,Hungary,1,2,UEFA Euro qualification,Belgrade,Serbia,FALSE
+9/7/2023,Kazakhstan,Finland,0,1,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+9/7/2023,Denmark,San Marino,4,0,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+9/8/2023,Georgia,Spain,1,7,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+9/8/2023,Cyprus,Scotland,0,3,UEFA Euro qualification,Larnaca,Cyprus,FALSE
+9/8/2023,Croatia,Latvia,5,0,UEFA Euro qualification,Rijeka,Croatia,FALSE
+9/8/2023,Turkey,Armenia,1,1,UEFA Euro qualification,Eskişehir,Turkey,FALSE
+9/8/2023,Bosnia and Herzegovina,Liechtenstein,2,1,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+9/8/2023,Luxembourg,Iceland,3,1,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+9/8/2023,Slovakia,Portugal,0,1,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+9/9/2023,Germany,Japan,1,4,Friendly,Wolfsburg,Germany,FALSE
+9/9/2023,Ukraine,England,1,1,UEFA Euro qualification,Wrocław,Poland,TRUE
+9/9/2023,North Macedonia,Italy,1,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+9/9/2023,Estonia,Sweden,0,5,UEFA Euro qualification,Tallinn,Estonia,FALSE
+9/9/2023,Kosovo,Switzerland,2,2,UEFA Euro qualification,Pristina,Kosovo,FALSE
+9/9/2023,Romania,Israel,1,1,UEFA Euro qualification,Bucharest,Romania,FALSE
+9/10/2023,Hungary,Czech Republic,1,1,Friendly,Budapest,Hungary,FALSE
+9/10/2023,Republic of Ireland,Netherlands,1,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+9/10/2023,Greece,Gibraltar,5,0,UEFA Euro qualification,Athens,Greece,FALSE
+9/10/2023,Lithuania,Serbia,1,3,UEFA Euro qualification,Kaunas,Lithuania,FALSE
+9/10/2023,Finland,Denmark,0,1,UEFA Euro qualification,Helsinki,Finland,FALSE
+9/10/2023,Kazakhstan,Northern Ireland,1,0,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+9/11/2023,Armenia,Croatia,0,1,UEFA Euro qualification,Yerevan,Armenia,FALSE
+9/11/2023,Latvia,Wales,0,2,UEFA Euro qualification,Riga,Latvia,FALSE
+9/11/2023,Iceland,Bosnia and Herzegovina,1,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+9/11/2023,Portugal,Luxembourg,9,0,UEFA Euro qualification,São João da Venda,Portugal,FALSE
+9/12/2023,Germany,France,2,1,Friendly,Dortmund,Germany,FALSE
+9/12/2023,Japan,Turkey,4,2,Friendly,Genk,Belgium,TRUE
+9/12/2023,Scotland,England,1,3,Friendly,Glasgow,Scotland,FALSE
+9/12/2023,Norway,Georgia,2,1,UEFA Euro qualification,Oslo,Norway,FALSE
+9/12/2023,Spain,Cyprus,6,0,UEFA Euro qualification,Granada,Spain,FALSE
+9/12/2023,Italy,Ukraine,2,1,UEFA Euro qualification,Milan,Italy,FALSE
+9/12/2023,Belgium,Estonia,5,0,UEFA Euro qualification,Brussels,Belgium,FALSE
+9/12/2023,Sweden,Austria,1,3,UEFA Euro qualification,Stockholm,Sweden,FALSE
+9/12/2023,Switzerland,Andorra,3,0,UEFA Euro qualification,Sion,Switzerland,FALSE
+9/12/2023,Israel,Belarus,1,0,UEFA Euro qualification,Tel Aviv,Israel,FALSE
+9/12/2023,Romania,Kosovo,2,0,UEFA Euro qualification,Bucharest,Romania,FALSE
+10/11/2023,Wales,Gibraltar,4,0,Friendly,Wrexham,Wales,FALSE
+10/12/2023,Georgia,Thailand,8,0,Friendly,Tbilisi,Georgia,FALSE
+10/12/2023,Spain,Scotland,2,0,UEFA Euro qualification,Seville,Spain,FALSE
+10/12/2023,Croatia,Turkey,0,1,UEFA Euro qualification,Osijek,Croatia,FALSE
+10/12/2023,Belarus,Romania,0,0,UEFA Euro qualification,Budapest,Hungary,TRUE
+10/13/2023,England,Australia,1,0,Friendly,London,England,FALSE
+10/13/2023,Republic of Ireland,Greece,0,2,UEFA Euro qualification,Dublin,Republic of Ireland,FALSE
+10/13/2023,Netherlands,France,1,2,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
+10/13/2023,Estonia,Azerbaijan,0,2,UEFA Euro qualification,Tallinn,Estonia,FALSE
+10/13/2023,Austria,Belgium,2,3,UEFA Euro qualification,Vienna,Austria,FALSE
+10/13/2023,Iceland,Luxembourg,1,1,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+10/13/2023,Portugal,Slovakia,3,2,UEFA Euro qualification,Porto,Portugal,FALSE
+10/13/2023,Liechtenstein,Bosnia and Herzegovina,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+10/14/2023,United States,Germany,1,3,Friendly,East Hartford,United States,FALSE
+10/14/2023,Ukraine,North Macedonia,2,0,UEFA Euro qualification,Prague,Czech Republic,TRUE
+10/14/2023,Italy,Malta,4,0,UEFA Euro qualification,Bari,Italy,FALSE
+10/14/2023,Hungary,Serbia,2,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+10/14/2023,Denmark,Kazakhstan,3,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+10/15/2023,Georgia,Cyprus,4,0,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+10/15/2023,Norway,Spain,0,1,UEFA Euro qualification,Oslo,Norway,FALSE
+10/15/2023,Wales,Croatia,2,1,UEFA Euro qualification,Cardiff,Wales,FALSE
+10/15/2023,Turkey,Latvia,4,0,UEFA Euro qualification,Konya,Turkey,FALSE
+10/15/2023,Switzerland,Belarus,3,3,UEFA Euro qualification,Saint Gallen,Switzerland,FALSE
+10/15/2023,Romania,Andorra,4,0,UEFA Euro qualification,Bucharest,Romania,FALSE
+10/16/2023,Greece,Netherlands,0,1,UEFA Euro qualification,Athens,Greece,FALSE
+10/16/2023,Azerbaijan,Austria,0,1,UEFA Euro qualification,Baku,Azerbaijan,FALSE
+10/16/2023,Iceland,Liechtenstein,4,0,UEFA Euro qualification,Reykjavík,Iceland,FALSE
+10/16/2023,Bosnia and Herzegovina,Portugal,0,5,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+10/16/2023,Luxembourg,Slovakia,0,1,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+10/17/2023,Estonia,Thailand,1,1,Friendly,Tallinn,Estonia,FALSE
+10/17/2023,France,Scotland,4,1,Friendly,Lille,France,FALSE
+10/17/2023,Mexico,Germany,2,2,Friendly,Philadelphia,United States,TRUE
+10/17/2023,England,Italy,3,1,UEFA Euro qualification,London,England,FALSE
+10/17/2023,Malta,Ukraine,1,3,UEFA Euro qualification,Ta' Qali,Malta,FALSE
+10/17/2023,Serbia,Montenegro,3,1,UEFA Euro qualification,Belgrade,Serbia,FALSE
+10/17/2023,Lithuania,Hungary,2,2,UEFA Euro qualification,Kaunas,Lithuania,FALSE
+10/17/2023,Finland,Kazakhstan,1,2,UEFA Euro qualification,Helsinki,Finland,FALSE
+10/17/2023,San Marino,Denmark,1,2,UEFA Euro qualification,Serravalle,San Marino,FALSE
+11/12/2023,Kosovo,Israel,1,0,UEFA Euro qualification,Pristina,Kosovo,FALSE
+11/15/2023,Belgium,Serbia,1,0,Friendly,Leuven,Belgium,FALSE
+11/15/2023,Israel,Switzerland,1,1,UEFA Euro qualification,Felcsút,Hungary,TRUE
+11/16/2023,Cyprus,Spain,1,3,UEFA Euro qualification,Limassol,Cyprus,FALSE
+11/16/2023,Georgia,Scotland,2,2,UEFA Euro qualification,Tbilisi,Georgia,FALSE
+11/16/2023,Estonia,Austria,0,2,UEFA Euro qualification,Tallinn,Estonia,FALSE
+11/16/2023,Bulgaria,Hungary,2,2,UEFA Euro qualification,Sofia,Bulgaria,FALSE
+11/16/2023,Liechtenstein,Portugal,0,2,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+11/16/2023,Luxembourg,Bosnia and Herzegovina,4,1,UEFA Euro qualification,Luxembourg,Luxembourg,FALSE
+11/16/2023,Slovakia,Iceland,4,2,UEFA Euro qualification,Bratislava,Slovakia,FALSE
+11/17/2023,Greece,New Zealand,2,0,Friendly,Athens,Greece,FALSE
+11/17/2023,England,Malta,2,0,UEFA Euro qualification,London,England,FALSE
+11/17/2023,Italy,North Macedonia,5,2,UEFA Euro qualification,Rome,Italy,FALSE
+11/17/2023,Denmark,Slovenia,2,1,UEFA Euro qualification,Copenhagen,Denmark,FALSE
+11/17/2023,Kazakhstan,San Marino,3,1,UEFA Euro qualification,Astana,Kazakhstan,FALSE
+11/18/2023,Germany,Turkey,2,3,Friendly,Berlin,Germany,FALSE
+11/18/2023,France,Gibraltar,14,0,UEFA Euro qualification,Nice,France,FALSE
+11/18/2023,Netherlands,Republic of Ireland,1,0,UEFA Euro qualification,Amsterdam,Netherlands,FALSE
+11/18/2023,Armenia,Wales,1,1,UEFA Euro qualification,Yerevan,Armenia,FALSE
+11/18/2023,Latvia,Croatia,0,2,UEFA Euro qualification,Riga,Latvia,FALSE
+11/18/2023,Switzerland,Kosovo,1,1,UEFA Euro qualification,Basel,Switzerland,FALSE
+11/18/2023,Israel,Romania,1,2,UEFA Euro qualification,Felcsút,Hungary,TRUE
+11/19/2023,Scotland,Norway,3,3,UEFA Euro qualification,Glasgow,Scotland,FALSE
+11/19/2023,Spain,Georgia,3,1,UEFA Euro qualification,Valladolid,Spain,FALSE
+11/19/2023,Sweden,Estonia,2,0,UEFA Euro qualification,Stockholm,Sweden,FALSE
+11/19/2023,Hungary,Montenegro,3,1,UEFA Euro qualification,Budapest,Hungary,FALSE
+11/19/2023,Serbia,Bulgaria,2,2,UEFA Euro qualification,Leskovac,Serbia,FALSE
+11/19/2023,Portugal,Iceland,2,0,UEFA Euro qualification,Lisbon,Portugal,FALSE
+11/19/2023,Bosnia and Herzegovina,Slovakia,1,2,UEFA Euro qualification,Zenica,Bosnia and Herzegovina,FALSE
+11/19/2023,Liechtenstein,Luxembourg,0,1,UEFA Euro qualification,Vaduz,Liechtenstein,FALSE
+11/20/2023,North Macedonia,England,1,1,UEFA Euro qualification,Skopje,North Macedonia,FALSE
+11/20/2023,Ukraine,Italy,0,0,UEFA Euro qualification,Leverkusen,Germany,TRUE
+11/20/2023,Northern Ireland,Denmark,2,0,UEFA Euro qualification,Belfast,Northern Ireland,FALSE
+11/20/2023,Slovenia,Kazakhstan,2,1,UEFA Euro qualification,Ljubljana,Slovenia,FALSE
+11/21/2023,Austria,Germany,2,0,Friendly,Vienna,Austria,FALSE
+11/21/2023,Gibraltar,Netherlands,0,6,UEFA Euro qualification,Faro-Loulé,Portugal,TRUE
+11/21/2023,Greece,France,2,2,UEFA Euro qualification,Athens,Greece,FALSE
+11/21/2023,Wales,Turkey,1,1,UEFA Euro qualification,Cardiff,Wales,FALSE
+11/21/2023,Croatia,Armenia,1,0,UEFA Euro qualification,Zagreb,Croatia,FALSE
+11/21/2023,Andorra,Israel,0,2,UEFA Euro qualification,Andorra la Vella,Andorra,FALSE
+11/21/2023,Romania,Switzerland,1,0,UEFA Euro qualification,Bucharest,Romania,FALSE
+1/12/2024,Sweden,Estonia,2,1,Friendly,Paphos,Cyprus,TRUE
+1/13/2024,Guatemala,Iceland,0,1,Friendly,Fort Lauderdale,United States,TRUE
+1/17/2024,Honduras,Iceland,0,2,Friendly,Fort Lauderdale,United States,TRUE
